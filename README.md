@@ -21,7 +21,7 @@
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="coding gif"/>
 
-👋 Hi! I am **Christy Punitha**, a passionate **Full Stack Developer** who loves turning ideas into real, impactful web applications.
+👋 Hi! I am **ChristyPunitha**, a passionate **Full Stack Developer** who loves turning ideas into real, impactful web applications.
 
 - 🔭 &nbsp;Currently building **scalable full-stack web apps**
 - 🌱 &nbsp;Always learning & exploring new technologies

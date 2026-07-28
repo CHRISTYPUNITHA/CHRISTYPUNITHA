@@ -98,17 +98,20 @@
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=CHRISTYPUNITHA&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=CHRISTYPUNITHA&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏅 Achievements & Highlights
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=CHRISTYPUNITHA&theme=nord&no-frame=false&no-bg=false&margin-w=4&row=1" alt="Trophies"/>
+![Repos](https://img.shields.io/badge/Public%20Repos-10+-6C63FF?style=for-the-badge&logo=github&logoColor=white)
+![Focus](https://img.shields.io/badge/Focus-Full%20Stack%20Dev-FF6B6B?style=for-the-badge&logo=code&logoColor=white)
+![Languages](https://img.shields.io/badge/Languages-JS%20%7C%20TS%20%7C%20Python-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Open Source](https://img.shields.io/badge/Open%20Source-❤️%20Lover-47A248?style=for-the-badge&logo=opensourceinitiative&logoColor=white)
 
 </div>
 

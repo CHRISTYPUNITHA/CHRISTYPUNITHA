@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
 
 <!-- Animated Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Christy%20Punitha&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=58&descSize=20" width="100%"/>
@@ -19,21 +19,18 @@
 
 ## 🙋‍♀️ About Me
 
-```ts
-const christy = {
-  name:       "Christy Punitha",
-  role:       "Full Stack Developer",
-  passions:   ["Building elegant web apps", "Clean code", "Open source"],
-  techStack: {
-    frontend:  ["React.js", "Next.js", "HTML", "CSS", "TypeScript"],
-    backend:   ["Node.js", "Express.js"],
-    database:  ["MongoDB", "MySQL", "PostgreSQL"],
-    languages: ["JavaScript", "TypeScript", "Python"],
-  },
-  currentlyBuilding: "Scalable full-stack web applications",
-  funFact: "I turn ☕ coffee into clean, working code!",
-};
-```
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="coding gif"/>
+
+👋 Hi! I am **Christy Punitha**, a passionate **Full Stack Developer** who loves turning ideas into real, impactful web applications.
+
+- 🔭 &nbsp;Currently building **scalable full-stack web apps**
+- 🌱 &nbsp;Always learning & exploring new technologies
+- 💡 &nbsp;Passionate about **clean code** and elegant UI/UX
+- 🤝 &nbsp;Open to collaborating on **open source projects**
+- 💬 &nbsp;Ask me about **React, Node.js, JavaScript & MongoDB**
+- ⚡ &nbsp;Fun fact: I turn ☕ coffee into clean, working code!
+
+<br clear="right"/>
 
 ---
 
@@ -101,7 +98,7 @@ const christy = {
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=CHRISTYPUNITHA&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=CHRISTYPUNITHA&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
@@ -111,7 +108,7 @@ const christy = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=CHRISTYPUNITHA&theme=discord&no-frame=true&row=1&column=6" alt="Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=CHRISTYPUNITHA&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="Trophies"/>
 
 </div>
 
@@ -131,12 +128,8 @@ const christy = {
 
 <div align="center">
 
-<!-- Snake animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CHRISTYPUNITHA/CHRISTYPUNITHA/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CHRISTYPUNITHA/CHRISTYPUNITHA/output/github-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CHRISTYPUNITHA/CHRISTYPUNITHA/output/github-snake.svg" />
-</picture>
+<!-- Contribution Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=CHRISTYPUNITHA&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Graph"/>
 
 <br/>
 
